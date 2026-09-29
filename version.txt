@@ -1,2 +1,2 @@
 v2.0.0
-http://192.168.1.50:8000/v2.bin
+https://raw.githubusercontent.com/VANDA-NAATE/ESP-32-OTA-SERVER/refs/heads/main/v2.bin
