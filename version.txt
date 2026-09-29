@@ -1,2 +1,2 @@
-v2.0.0
+v1.0.0
 https://raw.githubusercontent.com/VANDA-NAATE/ESP-32-OTA-SERVER/refs/heads/main/v2.bin
